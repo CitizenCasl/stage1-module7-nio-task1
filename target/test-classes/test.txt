@@ -1,0 +1,4 @@
+Name: eAhmo
+Age: 10
+Email: eAhmo
+Phone: 10
